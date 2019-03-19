@@ -37,6 +37,18 @@ var selectableWords =
     "delhi",
     "dublin",
     "baghdad",
+    "jakarta",
+    "tokyo",
+    "nairobi",
+    "tripoli",
+    "rabat",
+    "wellington",
+    "lima",
+    "doha",
+    "taipei",
+    "tunis",
+    "caracas",
+    "hanoi",
   ];
 
 const maxTries = 10; // Maximum number of tries player has
