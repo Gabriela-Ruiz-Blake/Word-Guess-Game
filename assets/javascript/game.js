@@ -141,7 +141,7 @@ function evaluateGuess(letter) {
     }
   }
 
-  // if there are no indicies, remove a guess and update the hangman image
+  // if there are no indicies, remove a guess 
   if (positions.length <= 0) {
     remainingGuesses--;
   } else {
